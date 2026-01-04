@@ -17,17 +17,17 @@ timezone: Asia/Seoul
 
 title: Map of Star # the main title
 
-tagline: 기록합니다. # it will display as the subtitle
+tagline: 인생의 지도를 기록합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  기록합니다. 
+  인생의 지도를 기록합니다. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://Flameman14.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: "Flameman14" # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: 'google4e8c765b4d41fd85' # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
