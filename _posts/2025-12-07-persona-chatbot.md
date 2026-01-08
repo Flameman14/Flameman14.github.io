@@ -14,26 +14,6 @@ tags: [바이브코딩, 토이프로젝트, 챗봇]
 ### 👉 [데모 실행하기 (클릭)](https://flameman14.github.io/ai-persona-chat/)
 *(위 링크를 클릭하면 제가 배포한 앱으로 이동합니다. API 키가 필요합니다.)*
 
----
-
-## 👀 실행 데모 (직접 해보기)
-
-<p style="margin-bottom: 10px;">
-  <a href="https://[아이디].github.io/persona-chat/" target="_blank" class="btn btn-primary">
-    👉 모바일이거나 화면이 작다면 여기를 클릭 (전체화면)
-  </a>
-</p>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 120%; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <iframe 
-    src="https://[아이디].github.io/persona-chat/" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
-    allowfullscreen>
-  </iframe>
-</div>
-<p style="text-align: center; color: #888; font-size: 0.8rem; margin-top: 5px;">
-  ▲ 위 화면에서 바로 API 키를 넣고 대화할 수 있습니다.
-</p>
 
 ---
 
@@ -556,9 +536,11 @@ ${sys}`;
 </script>
 </body>
 </html>
+
+ </div>
+</details>
 ```
 
-</div> </details>
 
 ## 📝 사용 방법 & 팁
 1. **API 키 발급:** [Google AI Studio](https://aistudio.google.com/)에서 무료 키 발급.
